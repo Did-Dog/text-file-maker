@@ -7,8 +7,8 @@ setInterval(function () {
 }, 1000);
 
 function createNewTextFile() {
-  location.href = "create_note.html";
+  location.href = "create_note";
 }
 function editTextFile() {
-  location.href = "https://qszlv2cknhlprmmfedfavw-on.drv.tw/text-editor/load_note";
+  location.href = "load_note";
 }
